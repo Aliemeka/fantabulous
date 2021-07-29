@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="642.22601"
+   height="255.099"
+   viewBox="0 0 169.92229 67.494945"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="fantabulous-logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.429293"
+     inkscape:cy="492.3152"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:object-nodes="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.50505)">
+    <g
+       id="g2533"
+       inkscape:export-xdpi="17.8892"
+       inkscape:export-ydpi="17.8892"
+       transform="matrix(1.000002,0,0,1.000002,83.154923,211.66649)"
+       style="stroke-width:0.99999803">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path2499"
+         d="m 1.6792491,18.903449 -7.487186,11.304249 -7.2625711,11.415675 6.5275428,0.0263 7.9848466,-12.05603 0.340808,0.494325 7.9350141,11.51101 7.2518095,-0.07925 L 9.4352965,30.155101 1.7826894,19.053462 Z m -0.1887376,14.753624 -7.4871914,11.304075 -0.7804598,1.226728 3.4698441,2.516612 1.1639297,-1.82954 3.7243592,-5.623228 0.2016961,0.292581 2.9676082,6.173494 L 8.8848225,44.38429 1.7826894,34.080977 Z"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.49999702;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(1.0758934,0.92946009)"
+         id="text2519"
+         y="90.889442"
+         x="-77.316414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.45407486px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458278"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Onyx;-inkscape-font-specification:Onyx;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458278"
+           y="90.889442"
+           x="-77.316414"
+           id="tspan2517"
+           sodipodi:role="line">FANTABULOUS</tspan></text>
+    </g>
+  </g>
+</svg>
